@@ -25,7 +25,7 @@ The system is designed to be modular and user-friendly, incorporating several ke
 #### Conclusion:
 The project aims to provide a reliable and efficient system for early detection of Lumpy Skin Disease in cattle. By utilizing deep learning techniques, the system can accurately identify signs of LSD and notify local veterinary professionals, ensuring timely medical treatment and reducing the disease's spread and impact.
 
-#### [Result:](Lumpy Skin Disease detection in cows/Results)
+#### Result:[Lumpy Skin Disease detection in cows/Results](https://github.com/Dhanyatha-s/Deep-Learning-Project/commit/126cef1bf68af8a0db7e555add925ab225b365e5))
 The implemented system successfully detects Lumpy Skin Disease from cattle images. Upon detection, it sends notifications to local veterinary doctors via email, facilitating prompt medical response.
 
 **This project represents a significant step towards improving cattle health management through advanced technological solutions, ultimately benefiting farmers and the livestock industry.**
