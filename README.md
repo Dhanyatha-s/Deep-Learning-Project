@@ -18,6 +18,9 @@ The system is designed to be modular and user-friendly, incorporating several ke
 1 Pre-processing: Preparing and normalizing images of cattle for analysis.  
 2 CNN Implementation and Training: Utilizing the VGG16 algorithm to train the model on a dataset of images to accurately detect signs of LSD.  
 3 Evaluation: Testing the model's performance and accuracy in detecting the disease.
+![Screenshot (43)](https://github.com/Dhanyatha-s/Deep-Learning-Project/assets/95542660/ff985ef8-7143-4eaf-a1c2-9393a98401a2)![Screenshot (47)](https://github.com/Dhanyatha-s/Deep-Learning-Project/assets/95542660/8e07fdee-4527-4021-8d25-6ae80ccc1e1b)
+
+
 
 #### Conclusion:
 The project aims to provide a reliable and efficient system for early detection of Lumpy Skin Disease in cattle. By utilizing deep learning techniques, the system can accurately identify signs of LSD and notify local veterinary professionals, ensuring timely medical treatment and reducing the disease's spread and impact.
