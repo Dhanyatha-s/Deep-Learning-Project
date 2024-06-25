@@ -1,6 +1,10 @@
 # Deep-Learning-Project
 This is a college project called **LUMPY DISEASE DETECTION IN COW AND INTIMATIOM USING DEEP LEARNING**  
 *Department of computer science and engineering, AIEMS.*
+                      ![Designer (3)](https://github.com/Dhanyatha-s/Deep-Learning-Project/assets/95542660/1a94adb1-1c1d-47cf-8027-f4afa4fb0b8a)
+
+                      
+
 
 ## Project OverView
 Lumpy Skin Disease (LSD) is a significant viral infection that affects cattle, characterized by large skin nodules, fever, nasal discharge, and swollen lymph nodes. This disease, prevalent in regions such as India, Russia, Egypt, Oman, and Africa, poses a serious threat to livestock health and the agricultural economy. Early detection and timely intervention are crucial for managing and mitigating the impact of LSD. However, the scarcity of veterinary professionals often hampers prompt diagnosis and treatment.
